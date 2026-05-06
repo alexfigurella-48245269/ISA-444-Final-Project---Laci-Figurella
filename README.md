@@ -1,7 +1,5 @@
-# Forecasting the Hotel Occupancy of 17 Hotels
-This is our Final Project for ISA 444 - Business Forecasting
+# ISA 444 — Hotel Occupancy Forecasting ProjectThis is our Final Project for ISA 444 - Business Forecasting
 
-# ISA 444 — Hotel Occupancy Forecasting Project
 **Authors:** Laci & Figurella | Miami University, Farmer School of Business
 
 ## Overview
